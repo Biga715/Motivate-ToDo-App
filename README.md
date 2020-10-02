@@ -1,5 +1,3 @@
 
-<iframe width="420" height="315"
-src="https://youtu.be/KgfYlQO184s">
-</iframe>
+<a href="https://www.youtube.com/watch?v=KgfYlQO184s"> <img src="https://imgflip.com/gif/4h4t3w" </a>
 
